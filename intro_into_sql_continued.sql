@@ -16,7 +16,7 @@ to clean data, subqueries, performance tuning SQL queries and pivoting data in S
 -- Decimal numbers = DOUBLE PRECISION - 17 significant decimal numbers
 -- Boolean = BOOLEAN - True/False
 
--- Year dates are fomatted with year-first
+-- Year dates are formatted with year-first
 SELECT permalink,
 founded_at 
 FROM tutorial.crunchbase_companies_clean_date
